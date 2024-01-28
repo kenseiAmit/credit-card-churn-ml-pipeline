@@ -1,0 +1,9 @@
+2026-10-15 15:51:32,683 - root - INFO - START: Commencing customer churn test suite execution
+2026-10-15 15:51:32,684 - root - ERROR - TEST ERROR (handled): test_import correctly caught missing file: [Errno 2] No such file or directory: './data/non_existent_file.csv'
+2026-10-15 15:51:32,697 - root - INFO - SUCCESS: test_import loaded data from ./data/bank_data.csv
+2026-10-15 15:51:32,697 - root - INFO - SUCCESS: test_import verified non-empty dataframe with shape (10127, 22)
+2026-10-15 15:51:33,533 - root - INFO - SUCCESS: test_eda generated and verified all 5 EDA plots
+2026-10-15 15:51:33,551 - root - INFO - SUCCESS: test_encoder_helper successfully encoded all 5 categorical features
+2026-10-15 15:51:33,571 - root - INFO - SUCCESS: test_perform_feature_engineering verified train ((7088, 19)) and test ((3039, 19)) splits
+2026-10-15 15:51:43,083 - root - INFO - SUCCESS: test_train_models generated and verified all 6 model artifacts and plots
+2026-10-15 15:51:43,084 - root - INFO - COMPLETED: All tests finished successfully
