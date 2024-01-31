@@ -1,10 +1,14 @@
-# Modular Credit Card Customer Churn Prediction Pipeline
+<div align="center">
+  <img src="assets/hero-banner.svg" alt="Credit Card Churn ML Pipeline" width="100%" />
+  <br/><br/>
+  ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-Pipeline%20%26%20CV-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+  ![Code Quality](https://img.shields.io/badge/Pylint-10.00%2F10.00-16A34A?style=flat-square)
+  ![Tests](https://img.shields.io/badge/Pytest-6%2F6%20Suites%20Passing-0D9488?style=flat-square)
+  ![License](https://img.shields.io/badge/License-MIT-slate?style=flat-square)
+</div>
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Pipeline%20%26%20CV-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Code Quality](https://img.shields.io/badge/Pylint-10.00%2F10.00-16A34A?style=flat-square)
-![Tests](https://img.shields.io/badge/Pytest-6%2F6%20Suites%20Passing-0D9488?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-slate?style=flat-square)
+---
 
 Production-grade Python machine learning package for predicting credit card customer attrition across **10,127 retail banking customer profiles** (`22` attributes, `16.07%` minority churn prevalence). Engineered with clean object-oriented (`ChurnPredictor`) and functional APIs, automated univariate/bivariate EDA, target-encoded feature engineering, `RandomizedSearchCV` hyperparameter optimization, TreeSHAP + Gini explainability, structured file logging, and `pytest` verification.
 
