@@ -4,7 +4,7 @@ Constants definition module for Customer Churn Prediction project.
 This module centralizes configuration values, paths, feature lists,
 and model hyperparameters used across the churn library and test suite.
 
-Author: Amit Kumar Koshta
+Author: Amit Kumar
 Date: October 2026
 """
 

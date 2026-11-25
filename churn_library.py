@@ -6,7 +6,7 @@ for identifying bank credit card customers at risk of churn. It includes routine
 for data ingestion, exploratory data analysis (EDA), categorical encoding, feature
 engineering, model training with hyperparameter tuning, model evaluation, and artifact storage.
 
-Author: Amit Kumar Koshta
+Author: Amit Kumar
 Date: October 2026
 """
 

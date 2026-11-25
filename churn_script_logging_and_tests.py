@@ -6,7 +6,7 @@ This module validates all data pipeline and modeling routines defined in
 are written to `./logs/churn_library.log` using Python's logging facility.
 Tests can be executed via pytest or directly from the CLI.
 
-Author: Amit Kumar Koshta
+Author: Amit Kumar
 Date: October 2026
 """
 
