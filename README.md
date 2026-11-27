@@ -12,6 +12,8 @@
 
 ---
 
+![Credit Card Customer Attrition — Clean-Code MLOps Blueprint](docs/images/architecture_blueprint.png)
+
 Production-grade Python machine learning package for predicting credit card customer attrition across **10,127 retail banking customer profiles** (`22` attributes, `16.07%` minority churn prevalence). Engineered with clean object-oriented (`ChurnPredictor`) and functional APIs, automated univariate/bivariate EDA, target-encoded feature engineering, `RandomizedSearchCV` hyperparameter optimization, TreeSHAP + Gini explainability, structured file logging, and `pytest` verification.
 
 ---
